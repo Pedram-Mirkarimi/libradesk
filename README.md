@@ -1,4 +1,4 @@
-# Library - Windows Forms Application
+# Library Management System
 
 **Library** is a desktop Library Management System implemented as a Windows Forms (WinForms) application in **C#** targeting **.NET Framework 4.7.2**.  
 It provides basic library management features such as user management, book records, borrowing/return operations, and reporting (uses Stimulsoft Reports).
