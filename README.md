@@ -76,24 +76,6 @@ Library-Management-System/
 
 ---
 
-## 🖼️ Screenshots (Optional)
-
-Add screenshots for a stronger portfolio:
-
-* Main dashboard
-* Users management
-* Books management
-* Borrow/return form
-* Reports preview
-
-> Create a folder like `docs/screenshots/` and embed images here:
-
-```md
-![Dashboard](docs/screenshots/dashboard.png)
-```
-
----
-
 ## 🚀 Setup & Run
 
 ### 1) Prerequisites
