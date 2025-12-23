@@ -1,4 +1,4 @@
-<h1 align="center">📚 Library Management System</h1>
+<h1 align="center">📚 LibraDesk — Library Management System</h1>
 
 <p align="center">
   A <b>Windows Forms (WinForms)</b> desktop application built with <b>C#</b> targeting <b>.NET Framework 4.7.2</b>, featuring
@@ -27,7 +27,7 @@
 
 ## ✨ Overview
 
-**Library Management System** is a desktop app designed to handle core library operations such as:
+**LibraDesk** is a desktop app designed to handle core library operations such as:
 - managing users and books
 - tracking borrow/return transactions (loan records)
 - generating reports (via Stimulsoft, if available)
